@@ -1,4 +1,3 @@
-import { Component } from 'react';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Card } from './App.styled';
 import { Statistics } from './Statistics/Statistics';
